@@ -149,8 +149,8 @@ button:active {
 
 .attribution {
   display: flex;
-  position: absolute;
-  bottom: 15px;
+  position: relative;
+  bottom: -15px;
   font-size: 11px;
   justify-content: center;
   text-align: center;
